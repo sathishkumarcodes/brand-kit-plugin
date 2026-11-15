@@ -1,0 +1,32 @@
+# Confidential source material (pitch decks, investor documents, drafts)
+*.pdf
+!assets/**/*.pdf
+drafts/
+investor/
+
+# Generated outputs: rebuild with the plugin instead of committing
+outputs/
+cards/
+signatures/
+backgrounds/
+*.render.html
+Card_*.pdf
+Signature_*.html
+All_Signatures.html
+Background_*.png
+Post_*.png
+
+# Personal data: keep the real file in company Drive or a password manager
+people.json
+*.people.json
+
+# Python / OS / editor
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Private brand configs (keep your real brand.json in a private fork if it holds anything confidential)
+brand.private.json

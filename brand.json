@@ -1,0 +1,47 @@
+{
+  "name": "Acme Bio",
+  "legal_name": "Acme Bio, Inc.",
+  "wordmark": "ACME BIO",
+  "tagline": "Science that holds together.",
+  "website": "acmebio.example",
+  "city": "Boston, Massachusetts",
+  "footer": "Acme Bio  |  Confidential",
+  "program": "ACM-101",
+  "fonts": {
+    "heading": "Arial",
+    "body": "Calibri"
+  },
+  "colors": {
+    "primary": "12403C",
+    "accent": "2A9D8F",
+    "highlight": "F06449",
+    "secondary": "5B7FA6",
+    "positive": "3A7D44",
+    "milestone": "E9B44C",
+    "extra": "7B5EA7",
+    "text": "1F2933",
+    "muted": "667370",
+    "on_dark": "CFE6E2",
+    "rule": "C8D3D1",
+    "border": "D3DCDA",
+    "zebra": "F5F8F7",
+    "background": "F3F7F6",
+    "reference": "C8D3D1",
+    "comparator": "D2B48C"
+  },
+  "tints": {
+    "accent": "E3F2EF",
+    "peach": "FDEBDD",
+    "green": "E6F2E7",
+    "pink": "FBE9E4",
+    "gray": "EEF2F1",
+    "amber": "FBF1DC"
+  },
+  "assets": {
+    "logo": "assets/logos/logo_full_color.png",
+    "logo_reversed": "assets/logos/logo_reversed.png",
+    "corner_bottom_right": "assets/logos/corner_accent_bottom_right.png",
+    "corner_top_right": "assets/logos/corner_accent_top_right.png",
+    "cover_art": "assets/images/cover_art.png"
+  }
+}

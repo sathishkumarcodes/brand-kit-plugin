@@ -1,0 +1,20 @@
+{
+  "name": "brand-kit-plugin",
+  "version": "1.0.0",
+  "description": "A complete brand system as a Claude plugin: on-brand decks, Word documents, social graphics, business cards, backgrounds and scientific figures from real templates, plus a claims check. Ships with a fictional sample brand; swap in your own with brand.json.",
+  "author": {
+    "name": "Sathish"
+  },
+  "keywords": [
+    "claude",
+    "plugin",
+    "brand",
+    "branding",
+    "presentations",
+    "python-pptx",
+    "python-docx",
+    "biotech",
+    "scientific figures",
+    "claims review"
+  ]
+}

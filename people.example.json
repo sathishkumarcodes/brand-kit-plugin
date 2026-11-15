@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jane Doe, PhD",
+    "title": "Chief Scientific Officer",
+    "email": "jane@example.com",
+    "phone": "+1 (555) 010-0100",
+    "city": "Springfield"
+  },
+  {
+    "name": "Alex Smith",
+    "title": "Head of Operations",
+    "email": "alex@example.com",
+    "phone": "+1 (555) 010-0101"
+  }
+]
